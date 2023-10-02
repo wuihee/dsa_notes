@@ -8,7 +8,7 @@ Implementation and notes of data structures and algorithms.
 
 #### Linear Data Structures
 
-- Dynamic Arrays
+- [Dynamic Arrays](./dsa_notes/data_structures/arrays/)
 - Linked Lists
   - Singly Linked
   - Doubly Linked
