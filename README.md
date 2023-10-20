@@ -1,6 +1,13 @@
 # Data Structures and Algorithm Notes
 
-Implementation and notes of data structures and algorithms.
+Implementation and notes of data structures and algorithms with notes.
+
+## TODO
+
+- DynamicArray
+- LinkedList
+- BoyerMoore
+- Two Pointer, Sliding Window, Floyd's Tortoise & Hare
 
 ## Contents
 
@@ -71,7 +78,10 @@ Implementation and notes of data structures and algorithms.
 
 - Linear Search
 - Binary Search
-...
+- Two-Pointer
+- Sliding Window
+- Floyd's Tortoise & Hare
+- [Boyer Moore's Majority Vote](./dsa_notes/algorithms/searching/boyer_moore_majority_vote/)
 
 #### Graph Theory
 
