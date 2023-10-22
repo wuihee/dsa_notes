@@ -4,7 +4,7 @@
 
 The Boyer-Moore Majority Vote Algorithm is an algorithm designed to find the majority element in a sequence, i.e., an element that appears more than `n / 2` times in an array of `n` elements.
 
-## Intuition
+## Concept
 
 The core insight of the algorithm is that if we cancel out the majority element with any other element (non-majority), the majority element will still remain the majority in the remaining elements.
 
