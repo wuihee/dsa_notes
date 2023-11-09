@@ -1,3 +1,4 @@
+package dsa_notes.dsa_notes.data_structures.ArrayListP;
 import java.util.*;
 
 public class DynamicArray<T> {
